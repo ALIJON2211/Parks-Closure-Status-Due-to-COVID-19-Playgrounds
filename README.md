@@ -1,5 +1,5 @@
 # Parks Closure Status in USA Due to COVID-19: Playgrounds
-INTRODUCTION
+#INTRODUCTION
 Playgrounds in North Liberty and Dubuque will be closing to practice social distancing and slow the spread of COVID-19.
 
 The City of North Liberty announced that all outdoor play structures will be closed, effective immediately. The park, trails, and other outdoor public areas will remain open, but the public should continue to practice social distancing in these areas.
