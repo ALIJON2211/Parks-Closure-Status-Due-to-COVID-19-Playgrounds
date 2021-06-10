@@ -1,6 +1,6 @@
 # Parks Closure Status in NYC Due to COVID-19: Playgrounds
 # Problem Description
-In response to the COVID-19 pandemic, NYC Parks temporarily closed several amenities, including Playgrounds in order to to practice social distancing and slow the spread of COVID-19.The city said that these public areas are extremely difficult to keep sanitized and safe for people to use. There will be signage around those playgrounds and play areas explaining the closure. These will be closed until further notice.I will be using the Weka visualisation tool in order to visualise the data that provided by Department of Parks and Recreation (DPR).
+In response to the COVID-19 pandemic, NYC Parks temporarily closed several amenities, including Playgrounds in order to to practice social distancing and slow the spread of COVID-19.The city said that these public areas are extremely difficult to keep sanitized and safe for people to use. There will be signage around those playgrounds and play areas explaining the closure. These will be closed until further notice.I will be using I will using Google Data Studio and Google Chart, in order to visualise the data that provided by Department of Parks and Recreation (DPR).
 # Dataset Description
 This data collection contains the status of each Playground, and is subject to change. Although the data feed is refreshed daily, it may not reflect current conditions.
 
@@ -10,5 +10,5 @@ Public: This dataset is intended for public access and use.
 Non-Federal: This dataset is covered by different Terms of Use than Data.gov. See Terms
  License: No license information was provided.
 
-
+# Atributes
 
