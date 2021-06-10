@@ -12,11 +12,19 @@ Non-Federal: This dataset is covered by different Terms of Use than Data.gov. Se
 
 # Atributes
 .ClosureType:Completely Locked,Partially Locked,Not Lockable,
+
 .Status:Reopened,under construction
+
 .Accessibility: true,false
+
 .Location:location of parks
+
 .Name:Name of the parks
+
 .Rules:Adults not allowed in some locations,Adults Allowed,Unknown
+
 .District
+
 .Date closed
+
 .Data opened
