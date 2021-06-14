@@ -28,3 +28,6 @@ Non-Federal: This dataset is covered by different Terms of Use than Data.gov. Se
 .Date closed
 
 .Data opened
+# REFERENCES
+https://catalog.data.gov/dataset/parks-closure-status-due-to-covid-19-playgrounds
+https://www.nps.gov/acad/learn/news/pandemic-causes-impacts-and-opportunities-for-u-s-national-parks.htm
